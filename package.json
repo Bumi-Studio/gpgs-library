@@ -1,17 +1,18 @@
 {
     "name": "com.rto.gpgs-library",
     "version": "1.0.0",
-    "description": "This Package for setup new project for UI",
+    "description": "This Package for setup GPGS",
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/thisisfatah/fatahdev-package.git"
+      "url": "https://github.com/RTO-Production/rto-gpgs-library.git"
     },
     "author": "fatah <mfatahil56@gmail.com> (https://github.com/thisisfatah)",
     "keywords": [
       "utily",
       "git",
-      "editor"
+      "editor",
+      "gpgs"
     ],
     "displayName": "GPGS Library",
     "unity": "2021.3",
