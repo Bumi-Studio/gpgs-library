@@ -1,0 +1,17 @@
+{
+    "name": "Rto.Library.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9172e27a923a34eb8b02dc3ab88d3dcd",
+        "GUID:1ed07ff861e5f468287b0baef844706d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

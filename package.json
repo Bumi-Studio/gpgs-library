@@ -1,0 +1,19 @@
+{
+    "name": "com.rto.gpgs-library",
+    "version": "1.0.0",
+    "description": "This Package for setup new project for UI",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/thisisfatah/fatahdev-package.git"
+    },
+    "author": "fatah <mfatahil56@gmail.com> (https://github.com/thisisfatah)",
+    "keywords": [
+      "utily",
+      "git",
+      "editor"
+    ],
+    "displayName": "GPGS Library",
+    "unity": "2021.3",
+    "type": "tool"
+  }
