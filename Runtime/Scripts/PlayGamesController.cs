@@ -1,3 +1,4 @@
+#if UNITY_ANDROID
 using FullSerializer;
 
 using GooglePlayGames;
@@ -285,3 +286,4 @@ namespace Rto.Library
 		public string imgUrl;
 	}
 }
+#endif
